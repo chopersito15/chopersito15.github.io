@@ -1,0 +1,67 @@
+h1{
+    font-size: 49px;
+    font-family: fantasy;
+}
+#htre{
+    font-size: 30px;
+    font-family: fantasy;
+}
+h2{
+    font-size: 27px;
+}
+#kanto{
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+#Johto{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+#hoenn{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+div{
+    border: white 10px double;
+}
+#sinnoh{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+#teselia{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+#kalos{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+#alola{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+#galar{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}
+#fuecoco{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: orange double 20px;
+}

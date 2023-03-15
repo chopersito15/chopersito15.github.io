@@ -1,0 +1,52 @@
+#img1{
+    display: inline-block;
+    width: 18.5%;
+    float: left;
+    margin-bottom: 30px;
+}
+#tt1{
+    display: inline-block;
+    width: 65%;
+    margin-left: 50px;
+}
+#div1{
+    clear: both;
+    border: inset 5px orange;
+}
+#tt2{
+    display: inline-block;
+    width: 65%;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+#img2{
+    display: inline-block;
+    float:right;
+    width: 18.5%;
+    margin-bottom: 60px;
+}
+#div2{
+    clear: both;
+    border: inset 5px orange;
+}
+#div3{
+    clear: both;
+    border: inset 5px orange;
+}
+#tt3{
+    display: inline-block;
+    width: 30%;
+    padding: 50px;
+}
+#audio{
+    display: inline-block;
+    float: right;
+    width: 55%; 
+    margin-right: 50px;
+    margin-top: 30px;
+}
+#marcoaudio{
+    display: inline-block;
+    float: right;
+    border: inset 3px orange;  
+}

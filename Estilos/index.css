@@ -1,0 +1,37 @@
+#logo1{
+    display: inline-block;
+    width: 15%;
+    float: left;
+}
+#tttexto{
+    display: inline-block;
+    width: 55%;
+    font-family: fantasy;
+    font-size: 22px
+}
+#barranav{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 15.8%;
+    background-color: coral;
+    border: orange solid;
+    padding: 6px;
+    margin-right: 26px
+}
+#marco{
+    width: 98.5%;
+    height: 550px;
+    padding: 8px;
+}
+#pie1{
+    width: 50%;
+}
+#pie2{
+    widows: 50%;
+    text-align: right;
+    float: right;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}

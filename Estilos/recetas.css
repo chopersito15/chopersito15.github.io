@@ -1,0 +1,42 @@
+#tt{
+    clear: both;
+    border: inset 5px orange;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin: 40px;
+}
+#img1{
+    display: inline-block;
+    width: 18.5%;
+    float: left;
+    padding-right: 10px; 
+}
+#tt1{
+    display: inline-block;
+    width: 65%;
+    margin-left: 50px;
+}
+#div1{
+    clear: both;
+}
+#div2{
+    width: 20%;
+    border: inset 5px orange;
+    float: left;
+    padding: 50px;
+    margin-left: 40px;
+}
+#marco{
+    width: 60%;
+    border: inset 5px orange;
+    float: right;
+    margin-right: 40px;
+}
+
+#videopanda{
+    border: inset 5px orange;
+    float:none;
+    margin-top: 40px;
+}

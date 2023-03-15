@@ -1,0 +1,42 @@
+#tituacercade{
+    color: orangered;
+    font-size: 35px;
+    font-family: fantasy;
+    display: inline-block;
+    width: 40%;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#logo{
+    width: 340px;
+    border: 10px orange double;
+    display: inline-block;
+    width: 13.5%;
+}
+.h2{
+    font-size: 30px;
+    font-family: cursive;
+}
+#div1{
+    padding: 40px;
+    border: inset 5px orange;
+    margin-bottom: 40px;
+}
+#div2{
+    display: inline-block;
+    width: 40%;
+    float: left;
+    border: inset 5px orange;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+#div3{
+    display: inline-block;
+    width: 40%;
+    float: right;
+    border: inset 5px orange;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
